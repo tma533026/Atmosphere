@@ -1,0 +1,10 @@
+{
+    "PluginName": "金手指管理器",
+    "NoCheatsLoadedErrorCheatsCustomDrawerText": "無金手指被加載！",
+    "SectionNameCategoryHeaderText": "節：",
+    "AvailableCheatsCategoryHeaderText": "可用的金手指",
+    "NoCheatsInSubmenuCheatsCustomDrawerText": "子菜單沒有金手指！",
+    "AppIDMainCustomDrawerText": "程序ID：",
+    "BuildIDMainCustomDrawerText": "編譯ID：",
+    "ProcessIDMainCustomDrawerText": "進程ID："
+}
